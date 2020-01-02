@@ -1,2 +1,2 @@
-# akashjaswal.github.io
+# Sonull.github.io
 Website for hosting projects 
